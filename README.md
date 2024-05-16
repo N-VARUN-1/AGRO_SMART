@@ -26,4 +26,5 @@ Lastly, following feature extraction, a set of rules was aggregated using MATLAB
 
 # 1.    MATLAB DESKTOP APP
 # 2.    Deep Learning toolbox - for training the machine learning Model and Result outcomes
-# 3.    Fuzzy Logic Package - for using fuzzy interface system   
+# 3.    Fuzzy Logic Package - for using fuzzy interface system  
+# 4.    Download Leaf disease dataset from any source (recommended - Kaggle)
